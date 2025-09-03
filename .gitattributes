@@ -1,0 +1,2 @@
+esp32_win32_msys2_environment_and_toolchain-20181001.zip filter=lfs diff=lfs merge=lfs -text
+xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip filter=lfs diff=lfs merge=lfs -text
